@@ -1,0 +1,88 @@
+
+
+.main{
+  height: 992px;
+  background-color: #202124;
+  width: 1621px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  .header{
+    height: 30px;
+    border-bottom: 1px solid #414144;
+    width: 98%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 15px;
+    .text1{
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 130%;
+      /* or 18px */
+
+      letter-spacing: 0.1px;
+
+      color: #A1A1AA;
+      margin-left: 22px;
+      width: 10px;
+    }
+    .text2{
+      font-weight: 400;
+      font-size: 14px;
+      /* or 18px */
+
+      letter-spacing: 0.1px;
+
+      color: #A1A1AA;
+      margin-left: 74px;
+    }
+    .text3{
+      font-weight: 400;
+      font-size: 14px;
+      /* or 18px */
+
+      letter-spacing: 0.1px;
+
+      color: #A1A1AA;
+      margin-left: 615px;
+      display: flex;
+
+    }
+    .text4{
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 130%;
+      /* or 18px */
+
+      letter-spacing: 0.1px;
+
+      color: #A1A1AA;
+      margin-left: 110px;
+    }
+    .text5{
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 130%;
+      /* or 18px */
+
+      letter-spacing: 0.1px;
+
+      color: #A1A1AA;
+      margin-left: 103px;
+    }
+    .text6{
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 130%;
+      /* or 18px */
+
+      letter-spacing: 0.1px;
+
+      color: #A1A1AA;
+      margin-left: 62px;
+    }
+
+
+  }
+}
